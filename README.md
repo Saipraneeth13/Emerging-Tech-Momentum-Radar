@@ -80,10 +80,3 @@ A historical view of how interest has shifted, highlighting the dramatic surge i
 ├── app.py                  # Dash Web Application
 └── requirements.txt        # Project dependencies
 ```
-
----
-
-## 📬 Contact & Connect
-- **Email:** [esamalselwi404@gmail.com](mailto:esamalselwi404@gmail.com)
-- **LinkedIn:** [linkedin.com/in/esam-al-selwi-866077374](https://www.linkedin.com/in/esam-al-selwi-866077374)
-- **Portfolio:** [GitHub Profile](https://github.com/EsamAdelAlselwi)
